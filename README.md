@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alan S Robin</h1>
+<h3 align="center">Full Stack Developer | Backend Focus | FastAPI • React • PostgreSQL</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;FastAPI+Backend+Developer;React+Developer;Building+Production+Applications;Future+Google+Engineer&center=true&width=550&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;FastAPI+Backend+Developer;React+Developer;Building+Production+Applications;Backend+Engineering+Enthusiast&center=true&width=550&height=50">
 </p>
 
 ---
@@ -12,8 +13,8 @@
 💻 Full-Stack Developer specializing in backend systems and scalable applications  
 🏗️ Creator of FMC-Connect – production church management platform  
 🤖 Robotics developer (Line Racing Robot)  
-⚡ Strong interest in Backend Engineering, System Design, and Distributed Systems  
-🎯 Goal: Software Engineer
+⚡ Strong interest in Backend Engineering, APIs, and System Design  
+🎯 Focused on building reliable, real-world software systems  
 
 ---
 
