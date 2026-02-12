@@ -115,11 +115,15 @@ C-based system using structures and file handling
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alansrobin&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansrobin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansrobin&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansrobin&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=alansrobin&theme=tokyonight" />
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=alansrobin&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -127,7 +131,8 @@ C-based system using structures and file handling
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alansrobin&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alansrobin&theme=tokyo-night&hide_border=true"/>
+
 
 ---
 
