@@ -114,15 +114,12 @@ C-based system using structures and file handling
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=alansrobin&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=alansrobin&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alansrobin&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alansrobin&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alansrobin&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alansrobin&theme=tokyonight" width="45%" />
 </p>
 
 
