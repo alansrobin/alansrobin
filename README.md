@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alan S Robin</h1>
-<h3 align="center">Full Stack Developer | Backend Focus | FastAPI • React • PostgreSQL</h3>
+
+<h3 align="center">
+Full Stack Developer | Backend Focus | Java • FastAPI • React • MongoDB • Google Cloud
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;FastAPI+Backend+Developer;React+Developer;Building+Production+Applications;Backend+Engineering+Enthusiast&center=true&width=550&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+Backend+Engineer;FastAPI+Developer;MongoDB+and+PostgreSQL;Google+Cloud+Developer&center=true&width=550&height=50">
 </p>
 
 ---
@@ -10,11 +13,12 @@
 # 🚀 About Me
 
 🎓 Computer Science Engineering student  
-💻 Full-Stack Developer specializing in backend systems and scalable applications  
-🏗️ Creator of FMC-Connect – production church management platform  
-🤖 Robotics developer (Line Racing Robot)  
-⚡ Strong interest in Backend Engineering, APIs, and System Design  
-🎯 Focused on building reliable, real-world software systems  
+💻 Backend-focused Full Stack Developer  
+⚙️ Experienced in Java, FastAPI, REST API development  
+☁️ Working with Google Cloud (Firestore, Cloud Storage)  
+🗄️ Database experience: PostgreSQL, MongoDB, Supabase, Firestore  
+🏗️ Built production systems like FMC-Connect  
+⚡ Strong interest in backend architecture and scalable systems   
 
 ---
 
@@ -29,43 +33,63 @@
 
 # 🛠️ Tech Stack
 
-## Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+## Backend
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
 ## Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
-## Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-
-## Database
+## Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firestore-black?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+
+## Cloud
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-black?style=for-the-badge&logo=googlecloud)
 
 ## Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
+
 ---
+
+# 🧩 Backend Skills
+
+- REST API design
+- Authentication and authorization
+- Database schema design
+- Cloud storage integration
+- Backend deployment
+- Production debugging
+
 
 # 🚀 Featured Projects
 
 ## FMC-Connect
-Production-ready Church Management System  
+Full-stack cloud-based Church Management Platform  
 
-Tech Stack:
-React, FastAPI, PostgreSQL, Supabase  
+Architecture:
+Frontend: React  
+Backend: python-FastAPI  
+Databases: MongoDB, Firestore  
+Cloud: Google Cloud (Firestore, Cloud Storage)  
+Authentication: Secure user authentication system  
 
-Features:
-- Member management
-- Fund tracking system
-- Admin dashboard
-- Authentication system
-- Real-world deployment
+Key Features:
+- Centralized member management
+- Contribution and fund tracking system
+- Admin dashboard for system control
+- Cloud-based storage and database integration
+- Scalable backend architecture
+- Production-ready deployment
+
 
 ---
 
