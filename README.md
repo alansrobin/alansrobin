@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan S Robin</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;FastAPI+Backend+Developer;React+Developer;Building+Real+World+Apps;Future+Google+Engineer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;FastAPI+Backend+Developer;React+Developer;Building+Production+Applications;Future+Google+Engineer&center=true&width=550&height=50">
 </p>
 
 ---
@@ -9,20 +9,20 @@
 # 🚀 About Me
 
 🎓 Computer Science Engineering student  
-💻 Full-Stack Developer (React, FastAPI, PostgreSQL, Supabase)  
-🏗️ Creator of FMC-Connect – Church Management Platform  
-🤖 Robotics Developer – Line Racing Robot  
-⚡ Passionate about Backend, System Design, and Scalable Systems  
-🎯 Goal: Software Engineer role 
+💻 Full-Stack Developer specializing in backend systems and scalable applications  
+🏗️ Creator of FMC-Connect – production church management platform  
+🤖 Robotics developer (Line Racing Robot)  
+⚡ Strong interest in Backend Engineering, System Design, and Distributed Systems  
+🎯 Goal: Software Engineer
 
 ---
 
-# 🧠 Current Focus
+# 🧠 Currently Working On
 
-- Building production-ready web apps
-- Backend engineering with FastAPI
-- System design and scalable architectures
-- Real-world automation systems
+- FMC-Connect (Full production deployment)
+- Backend architecture using FastAPI
+- PostgreSQL and Supabase integration
+- System design and scalable backend systems
 
 ---
 
@@ -54,39 +54,35 @@
 # 🚀 Featured Projects
 
 ## FMC-Connect
-Church Management System  
-Tech: React, FastAPI, PostgreSQL, Supabase  
+Production-ready Church Management System  
+
+Tech Stack:
+React, FastAPI, PostgreSQL, Supabase  
 
 Features:
 - Member management
-- Fund tracking
+- Fund tracking system
 - Admin dashboard
+- Authentication system
 - Real-world deployment
 
 ---
 
-## Community Funding System
+## Community Funding Automation System
 
-Automated intelligent fund collection system
-
-Features:
-- Automated reminders
-- Contribution tracking
-- Smart automation
+Automated intelligent fund collection and reminder system
 
 ---
 
-## Healthcare Chatbot
+## Healthcare AI Chatbot
 
-AI-based healthcare assistant using Python
+Python-based healthcare assistant system
 
 ---
 
 ## Student Record Management System
 
-Built in C using:
-- Structures
-- File handling
+C-based system using structures and file handling
 
 ---
 
@@ -104,7 +100,7 @@ Built in C using:
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alansrobin&theme=tokyo-night"/>
 
@@ -112,11 +108,19 @@ Built in C using:
 
 # 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/alansrobin)
+📧 Email: alan.s.robin@gmail.com  
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/alan-s-robin-2a5a25300  
+
+💻 GitHub:  
+https://github.com/alansrobin  
+
+🧠 LeetCode:  
+https://leetcode.com/alan_s_robin  
 
 ---
 
-# ⚡ Developer Mindset
+# ⚡ Developer Philosophy
 
-"I build real-world software that solves actual problems."
-
+I focus on building real-world production applications with scalable backend architecture and clean system design.
