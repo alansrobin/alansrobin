@@ -114,7 +114,7 @@ C-based system using structures and file handling
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=alansrobin&theme=tokyonight&hide_border=true" />
+ <img src="https://streak-stats.demolab.com?user=alansrobin&theme=tokyonight" />
 </p>
 
 <p align="center">
