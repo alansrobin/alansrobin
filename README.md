@@ -110,25 +110,16 @@ Python-based healthcare assistant system
 C-based system using structures and file handling
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alansrobin&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=alansrobin&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alansrobin&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alansrobin&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alansrobin&theme=tokyonight" width="48%" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alansrobin&theme=tokyonight" width="48%" alt="Top Languages Card" />
 </p>
-
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alansrobin&theme=tokyo-night&hide_border=true"/>
-
 
 ---
 
