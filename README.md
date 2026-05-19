@@ -19,7 +19,8 @@ Full Stack Developer | Backend Focus | Java • FastAPI • React • MongoDB �
 🗄️ Database experience: PostgreSQL, MongoDB, Supabase, Firestore  
 🏗️ Built production systems like FMC-Connect  
 ⚡ Strong interest in backend architecture and scalable systems   
-
+💼 LinkedIn:  
+https://www.linkedin.com/in/alan-s-robin
 ---
 
 # 🧠 Currently Working On
