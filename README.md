@@ -128,7 +128,7 @@ C-based system using structures and file handling
 📧 Email: alan.s.robin@gmail.com  
 
 💼 LinkedIn:  
-https://www.linkedin.com/in/alan-s-robin-2a5a25300  
+https://www.linkedin.com/in/alan-s-robin 
 
 💻 GitHub:  
 https://github.com/alansrobin  
