@@ -10,7 +10,7 @@ Full Stack Developer | Backend Focus | Java • FastAPI • React • MongoDB �
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 Computer Science Engineering student  
 💻 Backend-focused Full Stack Developer  
